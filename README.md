@@ -51,7 +51,6 @@ Computer Science student at Institut Teknologi Sepuluh Nopember (ITS) with stron
 
 - 🇮🇩 Bahasa Indonesia (Native)
 - 🇬🇧 English (Professional)
-- 🇯🇵 Japanese (Elementary)
 
 ## 📈 GitHub Stats
 
