@@ -39,6 +39,9 @@ Computer Science student at Institut Teknologi Sepuluh Nopember (ITS) with stron
 ### Programming Languages
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 
 ### Tools & Technologies
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
